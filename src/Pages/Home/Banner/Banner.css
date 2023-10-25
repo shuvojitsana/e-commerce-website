@@ -1,0 +1,15 @@
+.banner-bg{
+      /* Gradient background */
+  /* position: absolute; */
+  width: 1536px;
+  height: 803px;
+  left: 0px;
+  top: 0px;
+  
+  background: linear-gradient(74.71deg, #FEDDEE 0%, #FCF6FC 31.77%, #C5EAED 64.58%, #FDDDFE 100%);
+  filter: blur(250px);
+  
+  }
+
+  .bg-gradient {
+      background: linear-gradient(75deg,#feddee 0%,#fcf6fc 31.77%,#c5eaed 64.58%,#fdddfe 100%); }
